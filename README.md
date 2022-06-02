@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/gajraj_shekhawt" target="blank"><img src="https://img.shields.io/twitter/follow/gajraj_shekhawt?logo=twitter&style=for-the-badge" alt="gajraj_shekhawt" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://gajraj-shekhawat.github.io/Portfolio/](https://gajraj-shekhawat.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gajraj-shekhawat.github.io/Portfolio/)
 
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **gaju2gajraj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FVenuXklnPXj3d6eZCx81SsamKSXDwJw/view?usp=sharing](https://drive.google.com/file/d/1FVenuXklnPXj3d6eZCx81SsamKSXDwJw/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FVenuXklnPXj3d6eZCx81SsamKSXDwJw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
