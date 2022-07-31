@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gaju2gajraj@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FVenuXklnPXj3d6eZCx81SsamKSXDwJw/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Yyfm2Izy3HSv-qvsLoNupWTiCkzdVEmn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
