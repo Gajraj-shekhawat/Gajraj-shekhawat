@@ -1,29 +1,33 @@
-<h1 align="center">Hi 👋, I'm Gajraj Singh Shekhawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Gajraj Singh Shekhawat</h1>
+<h3 align="center">Full-Stack Software Engineer · Backend, Web & Mobile, AI and Data</h3>
 
-<p align="left"> <a href="https://twitter.com/gajraj_shekhawt" target="blank"><img src="https://img.shields.io/twitter/follow/gajraj_shekhawt?logo=twitter&style=for-the-badge" alt="gajraj_shekhawt" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://gajraj-shekhawat.github.io/Portfolio/)
-
-- 💬 Ask me about **React.js**
-
-- 📫 How to reach me **gaju2gajraj@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Yyfm2Izy3HSv-qvsLoNupWTiCkzdVEmn/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gajraj_shekhawt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gajraj_shekhawt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gajrajshekhawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajrajshekhawat/" height="30" width="40" /></a>
-<a href="https://instagram.com/gajraj_shekhawaat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gajraj_shekhawaat/" height="30" width="40" /></a>
-<a href="https://medium.com/@gajrajshekhawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gajrajshekhawat" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://gajrajshekhawat.com"><img src="https://img.shields.io/badge/Portfolio-gajrajshekhawat.com-f97316?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gajrajshekhawat/"><img src="https://img.shields.io/badge/LinkedIn-gajrajshekhawat-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:contact@gajrajshekhawat.com"><img src="https://img.shields.io/badge/Email-contact@gajrajshekhawat.com-333?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I turn business problems into software that is fast, reliable and actually used.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajraj-shekhawat&show_icons=true&locale=en&layout=compact" alt="gajraj-shekhawat" /></p>
+- 🏦 **Now:** engineering backend systems for **Equiti**'s global multi-asset trading platform at **Shuru Technologies**
+- ☕ **Pickup Coffee** (500+ stores, Philippines & Mexico): built the data platform (Airflow → BigQuery → Metabase), then Node.js microservices for the ordering, barista and back-office apps; **30% lower API latency, 40% less database load**
+- 🤖 **AI:** an assistant that answers plain-English questions over **1.7M school records** with text-to-SQL on a privately hosted LLM
+- 🛒 **E-commerce & ordering:** a B2B ordering platform with Android apps, online payments and GST invoicing for a beverage wholesaler
+- 🎓 **EdTech:** a complete platform for a JEE/NEET institute (website, online exams, admissions CRM, fee payments)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajraj-shekhawat&show_icons=true&locale=en" alt="gajraj-shekhawat" /></p>
+Most of my production work is in private client repositories. Case studies are on **[gajrajshekhawat.com](https://gajrajshekhawat.com)**:
+[Pickup Coffee](https://gajrajshekhawat.com/work/pickup-coffee-data-platform-and-apps/) ·
+[Wholesale ordering platform](https://gajrajshekhawat.com/work/neem-karoli-sales-ordering-platform/) ·
+[EdTech platform](https://gajrajshekhawat.com/work/shikhar-edtech-platform/) ·
+[AI text-to-SQL agent](https://gajrajshekhawat.com/work/yugam-ask-ai-agent/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajraj-shekhawat&" alt="gajraj-shekhawat" /></p>
+### Tech I work with
+**Backend:** Node.js · TypeScript · JavaScript · Express · NestJS · Fastify · Python · FastAPI · Microservices · WebSockets
+**Data:** MySQL · PostgreSQL · MongoDB · Redis · BigQuery · Apache Airflow · Metabase
+**Frontend & mobile:** React · Next.js · Redux · Tailwind CSS · React Native · Expo
+**Cloud & DevOps:** AWS · Google Cloud · Docker · Kubernetes · GitHub Actions · OpenTelemetry
+**AI:** LLM agents · Text-to-SQL · RAG · vLLM · Ollama · Gemini API · OpenCV
+
+### Work with me
+Open to select projects and collaborations: web and mobile apps, backends and APIs, e-commerce, and AI features.
+📫 [contact@gajrajshekhawat.com](mailto:contact@gajrajshekhawat.com) · 🌐 [gajrajshekhawat.com](https://gajrajshekhawat.com) · 📄 [Resume](https://gajrajshekhawat.com/assets/Gajraj-Shekhawat-Resume.pdf)
