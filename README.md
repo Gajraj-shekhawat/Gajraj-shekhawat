@@ -9,7 +9,7 @@
 
 I turn business problems into software that is fast, reliable and actually used.
 
-- 🏦 **Now:** engineering backend systems for **Equiti**'s global multi-asset trading platform at **Shuru Technologies**
+- 🏦 **Now:** engineering backend systems for a global multi-asset trading platform at **Shuru Technologies**
 - ☕ **Pickup Coffee** (500+ stores, Philippines & Mexico): built the data platform (Airflow → BigQuery → Metabase), then Node.js microservices for the ordering, barista and back-office apps; **30% lower API latency, 40% less database load**
 - 🤖 **AI:** an assistant that answers plain-English questions over **1.7M school records** with text-to-SQL on a privately hosted LLM
 - 🛒 **E-commerce & ordering:** a B2B ordering platform with Android apps, online payments and GST invoicing for a beverage wholesaler
